@@ -34,6 +34,7 @@ Architectural Diagram
 
 
 
+
 Architecture Overview
 
 This diagram shows an AWS-based data platform built around a data lake.
